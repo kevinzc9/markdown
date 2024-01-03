@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ec8466e67622da",
+        "id": "46fbc203cab9cbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "a519ece27c54abe8",
+            "id": "8fcefdfd7e68c558",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,9 +146,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6bb4431d28e45129",
+  "active": "8fcefdfd7e68c558",
   "lastOpenFiles": [
     "README.md",
-    "Welcome.md"
+    "algorithm/二叉树.md",
+    "algorithm/回溯算法.md",
+    "resources/Pasted image 20240103181744.png",
+    "resources/Pasted image 20240103100640.png",
+    "resources/Pasted image 20240102172745.png",
+    "resources/Pasted image 20240102172238.png",
+    "resources/Pasted image 20240101202919.png",
+    "resources/Pasted image 20240101202419.png",
+    "Welcome.md",
+    "resources/Pasted image 20240101200350.png",
+    "Pasted image 20240101200235.png",
+    "resources",
+    "resources",
+    "algorithm"
   ]
 }
